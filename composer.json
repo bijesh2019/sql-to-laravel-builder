@@ -19,7 +19,7 @@
     }
   ],
   "require": {
-    "greenlion/php-sql-parser": "^4.4"
+    "greenlion/php-sql-parser": "^4.6"
   },
   "require-dev": {
     "phpunit/phpunit": "^9.5"
